@@ -9,17 +9,16 @@ A young web developer from Kazakhstan, passionate about building efficient and s
 3. **Event-driven Architecture** - Event loop / non-blocking I/O
 
 
-### Find me:
+### Find Me:
 * **Gmail:** [abchikuei@gmail.com](mailto:abchikuei@gmail.com)
 * **Telegram:** https://t.me/abchikuei
-* **Location:** Almaty, Kazakhstan
 
 ### Tech Stack
 
-* ES6+
-* TypeScript
+* ES6+ / TS
 * Node / Bun
 * React / Redux
+* Docker / K8s
 * Git / GitHub
 * Linux / AWS
 
