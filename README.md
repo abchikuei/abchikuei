@@ -2,9 +2,11 @@
 
 A young web developer from Kazakhstan, passionate about building efficient and scalable systems. My main areas of interest include:
 
-1. **Browser Engines** — V8, libuv, non-blocking I/O
-2. **Compilers & Tooling** — Webpack, Babel, Bun
-3. **Event-driven Architecture** - Event loop
+1. **Frontend Development** - React 18 / Redux Toolkit
+2. **Partly Backend Development** - NestJS / Docker / AWS
+1. **Browser Engines** — V8 / libuv / webkit
+2. **Compilers & Tooling** — Webpack / Vite / Bun
+3. **Event-driven Architecture** - Event loop / non-blocking I/O
 
 
 ### Find me:
