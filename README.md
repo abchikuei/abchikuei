@@ -16,7 +16,7 @@ I am a **Web Developer** from Kazakhstan focused on building efficient and scala
 - 🔭 **Current Focus:** React 18 / Redux Toolkit & NestJS
 - ⚙️ **Under the Hood:** Exploring V8, libuv, and Webkit
 - 🏗️ **Architecture:** Non-blocking I/O and Event-loop optimization
-- 🛠️ **Open Source:** Learning / Developing Raycast and VSCode extensions
+- 🛠️ **Open Source:** Learning / Developing Raycast/VSCode/Obsidian extensions
 
 ---
 
