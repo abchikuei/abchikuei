@@ -28,7 +28,8 @@ I am a **Web Developer** from Kazakhstan focused on building efficient and scala
 | **Backend** | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black) |
-
+| **Productivity** | ![Static Badge](https://img.shields.io/badge/:badgeContent)
+ |
 ---
 
 ### 📫 Connect with me
